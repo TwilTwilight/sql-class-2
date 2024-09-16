@@ -12,3 +12,4 @@ INSERT INTO test
 Value (2, 'Nick', 22)
 
 SELECT * FROM test
+* Haohan
